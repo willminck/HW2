@@ -1,6 +1,6 @@
-# Homework 2 - SI 364 W18
+# Homework 2 - SI 364 F18
 
-### Deadline: January 28, 2018 at 11:59 PM
+### Deadline: September 30, 2018 at 11:59 PM
 
 ## To submit
 
